@@ -2,7 +2,15 @@
 
 **KryptPay** is a blockchain utility and cross border payment platform. KryptPay can be used to make our everyday transactions like paying for water, electricity, WiFi and grocery etc.
 
-### Technologies 
+## App Details
+
+**Live Link:** [KryptPay](https://krypt-pay.vercel.app/)
+
+**TokenContractAddress:**  <https://goerli.etherscan.io/address/0xe09aa821c1480ae46364583563a500f1288f5e7d#events>
+
+**AppContractAddress:** <https://goerli.etherscan.io/address/0x2651bfd0C2e3787C35FDEce4c2beECf33f29e903>
+
+## Technologies 
 
 The following Tech tools where used in building this project
 
@@ -22,7 +30,7 @@ Install dependencies `yarn install`
 Start the development sever `yarn start`
 
 ### 
-### AUTHORS
+## AUTHORS
 Henry Ezeh
 UI/UX Deigner
 
